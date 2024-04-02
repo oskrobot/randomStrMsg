@@ -15,7 +15,7 @@ randomStrMsg
 ```
 
 # Contributing
-If someone wants to add or improve something, I invite you to collaborate directly in this repository: ramdom-str-msg-oscarobot
+If someone wants to add or improve something, I invite you to collaborate directly in this repository: [randomStrMsg](https://github.com/oskrobot/randomStrMsg)
 
 ___
 
